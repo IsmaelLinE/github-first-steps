@@ -1,2 +1,27 @@
-for i in range(15):
-    print("Hello world")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for i in range(67):
+    print("67")
+
+
