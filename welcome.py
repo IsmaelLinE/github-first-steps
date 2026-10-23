@@ -1,1 +1,2 @@
-print("Welcome to GitHub!")
+for i in range(15):
+    print("Hello world")
